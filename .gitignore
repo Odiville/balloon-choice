@@ -1,0 +1,4 @@
+plan.txt
+node_modules/
+circuits/hash-gen/Prover.toml
+circuits/prove-balloon/Prover.toml

@@ -1,0 +1,14 @@
+{
+  "name": "balloon-choice",
+  "version": "1.0.0",
+  "description": "Odiville balloon choice zk-application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SanLeo461",
+  "license": "NONE",
+  "dependencies": {
+    "toml": "^3.0.0"
+  }
+}
