@@ -13,3 +13,6 @@ Result: 1
 Since the salt and balloon ordering are not yet public, users cannot yet know which balloon was picked by the VRF result being "1".  
 They can however, be sure (using circuits/hash-gen/proofs/shuffle0.proof), that it was generated correctly and fairly, a balloon has indeed been picked.  
 When the time comes to reveal a balloon we will submit a proof using the prove-balloon circuit.
+
+# blueCheck.proof
+The blue balloon is safe!
