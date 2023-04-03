@@ -23,3 +23,8 @@ Run `nargo verify blueCheck` after this to verify the blue balloon.
 The pink balloon is safe!  
 Rename circuits/prove-balloon/Verifier_pink.toml to Verifier.toml to verify the pinkcheck proof  
 Run `nargo verify pinkCheck` after this to verify the pink balloon.
+
+# blackCheck.proof
+The black balloon has been popped!  
+Rename circuits/prove-balloon/Verifier_black.toml to Verifier.toml to verify the blackcheck proof  
+Run `nargo verify blackCheck` after this to verify the black balloon.
