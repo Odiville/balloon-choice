@@ -15,4 +15,11 @@ They can however, be sure (using circuits/hash-gen/proofs/shuffle0.proof), that 
 When the time comes to reveal a balloon we will submit a proof using the prove-balloon circuit.
 
 # blueCheck.proof
-The blue balloon is safe!
+The blue balloon is safe!  
+Rename circuits/prove-balloon/Verifier_blue.toml to Verifier.toml to verify the bluecheck proof  
+Run `nargo verify blueCheck` after this to verify the blue balloon.
+
+# pinkCheck.proof
+The pink balloon is safe!
+Rename circuits/prove-balloon/Verifier_pink.toml to Verifier.toml to verify the pinkcheck proof  
+Run `nargo verify pinkCheck` after this to verify the pink balloon.
