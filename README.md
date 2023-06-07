@@ -1,6 +1,8 @@
 # balloon-choice
 Leverages Zero Knowledge Proofs (Noir, circuits/), and Chainlink VRF to pick a balloon and reveal certain balloons without collapsing the state of the system.
 
+Built and ran using Nargo v0.3.1, git version hash: 07b757611e7838d58bb763140888b7961eb0ff48
+
 ## VRF Txs
 Contract: https://etherscan.io/address/0x8c03228b6c30384bc43f6ca3808079b715861c39  
 Request: https://etherscan.io/tx/0xa4607cbfeb55a37d6d35bbde463fef2b3a3bbe13ec992748fc1f40730a3cc893  
